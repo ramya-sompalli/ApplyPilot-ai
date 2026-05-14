@@ -1,0 +1,16 @@
+# Virtual environment — never commit this
+venv/
+
+# Secret keys — never commit this
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Uploaded resume files
+uploads/
+
+# OS files
+.DS_Store
